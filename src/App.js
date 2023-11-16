@@ -30,8 +30,8 @@ function App() {
       </div>
       {selectedIngredient && (
         <div className="suggestion">
-          <h2>`You should make ${{suggestedDish}} for dinner`</h2>
-  
+          <h2>Suggested Dish:</h2>
+          <p>{suggestedDish}</p>
         </div>
       )}
     </div>
