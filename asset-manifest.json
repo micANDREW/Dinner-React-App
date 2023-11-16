@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dinner-React-App/static/css/main.7b92710c.css",
+    "main.js": "/Dinner-React-App/static/js/main.6ab7883d.js",
+    "static/js/787.c4f90599.chunk.js": "/Dinner-React-App/static/js/787.c4f90599.chunk.js",
+    "index.html": "/Dinner-React-App/index.html",
+    "main.7b92710c.css.map": "/Dinner-React-App/static/css/main.7b92710c.css.map",
+    "main.6ab7883d.js.map": "/Dinner-React-App/static/js/main.6ab7883d.js.map",
+    "787.c4f90599.chunk.js.map": "/Dinner-React-App/static/js/787.c4f90599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b92710c.css",
+    "static/js/main.6ab7883d.js"
+  ]
+}
